@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+*.log
+*.sql
+*.sqlite3
+pip-log.txt
+pip-delete-this-directory.txt
+docs/_build/
